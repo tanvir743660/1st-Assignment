@@ -140,3 +140,57 @@ nav{
     color: #4E47FF;
 }
 /* Productive Users Section end */
+/* Let’s Get In Touch Section start */
+.userssay{
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 40px 0 40px 0;
+    border-radius: 15px;
+}
+.wahtourusersay{
+    padding: 20px;
+    font-size: 35px;
+}
+.cardcontainer{
+    display: flex;
+    gap: 10px;
+}
+.card{
+    background: white;
+    width: 300px;
+    height: 190px;
+    border: solid rgb(244, 239, 145) .5px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.iconimage{
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+}
+.userhedline{
+    padding: 5px;
+}
+.usertext{
+    margin: 10px 0 20px 0;
+    font-size: 14px ;
+}
+.avatercontent{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 15px;
+}
+.avaterimage{
+    border-radius: 50%;
+}
+.avatertext{
+    font-size: 12px;
+}
+/* Let’s Get In Touch Section End */
+
+/* form section start */
