@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* navbar Design start*/
+nav{
+    justify-items: center;
+    justify-content: center;
+    background-image: url(Assets/Nav\ BG.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    width: 1200px;
+    margin: 10px;
+    padding: 10px;
+}
+.logo{
+    color: #4E47FF;
+}
+.signup{
+    padding: 3px 13px 3px 13px;
+    background: #4E47FF;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.navbanner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bannertext{
+    font-size: 30px;
+    padding: 20px 0 20px 0;
+    text-align: center;
+}
+.focusedbutton{
+    padding: 3px 13px 3px 13px;
+    background: #4E47FF;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    cursor: pointer;
+    width: 200px;
+    margin-bottom: 40px;
+}
+/* navbar Design End */
+/* see it in action start */
+.seeaction{
+    width: ;
+}
+/* see it in action end */
