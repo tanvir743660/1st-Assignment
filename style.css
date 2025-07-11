@@ -194,3 +194,62 @@ nav{
 /* Let’s Get In Touch Section End */
 
 /* form section start */
+.form{
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 50px;
+    margin-top: 60px;
+}
+.formleft{
+    width: 50%;
+    padding: 20px;
+}
+.formright{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+}
+.form-content input{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 8px;
+    width: 300px;
+}
+.getintouchbutton{
+    padding: 3px 13px 3px 13px;
+    background: #4E47FF;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.message{
+    height: 90px;
+}
+.touch{
+    font-size: 60px;
+}
+/* form section end */
+footer{
+     width: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 50px;
+    margin-top: 60px;
+}
+.home{
+    display: flex;
+    gap: 20px;
+}
+.redy{
+    padding: 10px;
+    text-align: center;
+}
